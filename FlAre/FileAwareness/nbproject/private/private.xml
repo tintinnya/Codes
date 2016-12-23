@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/tintinmcleod/NetBeansProjects/FileAwareness/src/fileawareness/populator/Populator.java</file>
+            <file>file:/home/tintinmcleod/NetBeansProjects/FileAwareness/src/fileawareness/predictor/NGramPredictor.java</file>
+            <file>file:/home/tintinmcleod/NetBeansProjects/FileAwareness/src/fileawareness/Learner.java</file>
+            <file>file:/home/tintinmcleod/NetBeansProjects/FileAwareness/src/fileawareness/learner/NGramLearner.java</file>
+            <file>file:/home/tintinmcleod/NetBeansProjects/FileAwareness/src/fileawareness/common/DBHandler.java</file>
+            <file>file:/home/tintinmcleod/NetBeansProjects/FileAwareness/src/fileawareness/learner/FileLearner.java</file>
+            <file>file:/home/tintinmcleod/NetBeansProjects/FileAwareness/src/fileawareness/FlAre.java</file>
+            <file>file:/home/tintinmcleod/NetBeansProjects/FileAwareness/src/fileawareness/Predictor.java</file>
+        </group>
+    </open-files>
+</project-private>
